@@ -1,9 +1,10 @@
-<!-- Title Section -->
+<!-- Title Section 
 <h1 align="center">
   <img src="link-to-your-logo.png" alt="RudraSphere Logo" width="200">
   <br/>
   RudraSphere
 </h1>
+-->
 
 <p align="center">
   🚀 Bridging Technology with Innovation 🚀
